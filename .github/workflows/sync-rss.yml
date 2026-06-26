@@ -1,0 +1,62 @@
+name: Sync RSS Feed
+
+on:
+  schedule:
+    - cron: '0 0 * * 2'  # Every Tuesday at midnight UTC (10AM AEST)
+  workflow_dispatch:       # Allows manual trigger too
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch RSS and generate markdown
+        run: |
+          python3 << 'EOF'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from datetime import datetime
+
+          url = "https://tayven.com/feed"
+          with urllib.request.urlopen(url) as response:
+              xml_data = response.read()
+
+          root = ET.fromstring(xml_data)
+          channel = root.find('channel')
+          items = channel.findall('item')
+
+          lines = [
+              "# Tayven Blog Posts",
+              "",
+              f"*Last synced: {datetime.utcnow().strftime('%Y-%m-%d')}*",
+              "",
+              "| Title | Link |",
+              "|-------|------|",
+          ]
+
+          for item in items:
+              title = item.findtext('title', '').strip()
+              link = item.findtext('link', '').strip()
+              if title and link:
+                  lines.append(f"| {title} | {link} |")
+
+          lines.append("")
+          with open("blog-posts.md", "w") as f:
+              f.write("\n".join(lines))
+
+          print(f"Written {len(items)} posts to blog-posts.md")
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add blog-posts.md
+          git diff --staged --quiet || git commit -m "chore: sync RSS feed $(date +'%Y-%m-%d')"
+          git push
