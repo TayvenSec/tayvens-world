@@ -1,9 +1,10 @@
 # Tayven Blog Posts
 
-*Last synced: 2026-06-26*
+*Last synced: 2026-06-30*
 
 | Title | Link |
 |-------|------|
+| Paris to Bern: A First‑Class Train Ride and a Complete Eurail Guide | https://tayven.com/paris-to-bern-first-class-eurail-guide/ |
 | From the Louvre to the Eiffel Tower: A Storm‑Soaked Day in Paris | https://tayven.com/louvre-to-eiffel-tower-paris-storm/ |
 | Versailles, Paris Streets & The Unexpected Magic of a Laundromat | https://tayven.com/versailles-palace-gardens-and-the-hall-of-mirrors/ |
 | Seine River Cruise, Foggy Hop‑On Hop‑Off Bus, and the Day Paris Turned Around | https://tayven.com/paris-day-2-seine-river-cruise-eiffel-tower/ |
@@ -13,4 +14,3 @@
 | A Perfect Day in South Kensington: Museums, Parks & Retro Gaming Nostalgia | https://tayven.com/south-kensington-museums-and-power-up/ |
 | Battersea Power Station: From Industrial Giant to London’s Newest Urban Playground | https://tayven.com/battersea-power-station-london-guide/ |
 | London Eye: A First‑Time Visitor’s Experience Above the Thames | https://tayven.com/london-eye-experience-guide/ |
-| British Museum First‑Time Guide: A Morning in Bloomsbury | https://tayven.com/british-museum-first-time-guide/ |
