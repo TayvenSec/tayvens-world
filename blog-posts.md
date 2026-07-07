@@ -1,9 +1,10 @@
 # Tayven Blog Posts
 
-*Last synced: 2026-06-30*
+*Last synced: 2026-07-07*
 
 | Title | Link |
 |-------|------|
+| 13 Cyber Security Tips to Make Your Travel Smooth and Stress‑Free | https://tayven.com/13-cyber-security-travel-tips/ |
 | Paris to Bern: A First‑Class Train Ride and a Complete Eurail Guide | https://tayven.com/paris-to-bern-first-class-eurail-guide/ |
 | From the Louvre to the Eiffel Tower: A Storm‑Soaked Day in Paris | https://tayven.com/louvre-to-eiffel-tower-paris-storm/ |
 | Versailles, Paris Streets & The Unexpected Magic of a Laundromat | https://tayven.com/versailles-palace-gardens-and-the-hall-of-mirrors/ |
@@ -13,4 +14,3 @@
 | River Cruise Along the Thames: From Buckingham Palace Mornings to Bloomsbury Nights | https://tayven.com/river-cruise-thames-buckingham-palace-to-bloomsbury/ |
 | A Perfect Day in South Kensington: Museums, Parks & Retro Gaming Nostalgia | https://tayven.com/south-kensington-museums-and-power-up/ |
 | Battersea Power Station: From Industrial Giant to London’s Newest Urban Playground | https://tayven.com/battersea-power-station-london-guide/ |
-| London Eye: A First‑Time Visitor’s Experience Above the Thames | https://tayven.com/london-eye-experience-guide/ |
