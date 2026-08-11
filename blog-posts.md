@@ -1,9 +1,10 @@
 # Tayven Blog Posts
 
-*Last synced: 2026-08-04*
+*Last synced: 2026-08-11*
 
 | Title | Link |
 |-------|------|
+| Blue Mountains 4‑Day Guide: Echo Point, Scenic World, Leura & Wentworth Falls | https://tayven.com/blue-mountains-4-day-guide/ |
 | Blue Mountains: A Winter Trip Through Memory, Mountains, and Family | https://tayven.com/blue-mountains-winter-trip/ |
 | 2 Days in Bern: The Best of Switzerland’s Quiet Capital | https://tayven.com/2-days-in-bern-best-things-to-do/ |
 | Bern Switzerland: A Small City Built for Big Moments | https://tayven.com/bern-switzerland-travel-story/ |
@@ -13,4 +14,3 @@
 | From the Louvre to the Eiffel Tower: A Storm‑Soaked Day in Paris | https://tayven.com/louvre-to-eiffel-tower-paris-storm/ |
 | Versailles, Paris Streets & The Unexpected Magic of a Laundromat | https://tayven.com/versailles-palace-gardens-and-the-hall-of-mirrors/ |
 | Seine River Cruise, Foggy Hop‑On Hop‑Off Bus, and the Day Paris Turned Around | https://tayven.com/paris-day-2-seine-river-cruise-eiffel-tower/ |
-| London to Paris on the Eurostar: A First‑Timer’s Story & Complete Guide | https://tayven.com/london-to-paris-eurostar-first-timers-guide/ |
