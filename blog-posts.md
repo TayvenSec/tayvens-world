@@ -1,9 +1,10 @@
 # Tayven Blog Posts
 
-*Last synced: 2026-08-25*
+*Last synced: 2026-09-01*
 
 | Title | Link |
 |-------|------|
+| Munich Germany: Beer Halls, Old Town Streets, and a Birthday Across Borders | https://tayven.com/munich-germany-beer-halls-old-town-birthday/ |
 | Lucerne Switzerland: A Day Trip That Felt Like a Postcard Come to Life | https://tayven.com/lucerne-switzerland-guide/ |
 | The Ultimate Switzerland Train Guide (2026) | https://tayven.com/ultimate-switzerland-train-guide-2026/ |
 | Blue Mountains 4‑Day Guide: Echo Point, Scenic World, Leura & Wentworth Falls | https://tayven.com/blue-mountains-4-day-guide/ |
@@ -13,4 +14,3 @@
 | The Best 4 Day Paris Itinerary (Built From Real Experience, Not Brochure Fantasy) | https://tayven.com/4-day-paris-itinerary-real-experience/ |
 | 13 Cyber Security Tips to Make Your Travel Smooth and Stress‑Free | https://tayven.com/13-cyber-security-travel-tips/ |
 | Paris to Bern: A First‑Class Train Ride and a Complete Eurail Guide | https://tayven.com/paris-to-bern-first-class-eurail-guide/ |
-| From the Louvre to the Eiffel Tower: A Storm‑Soaked Day in Paris | https://tayven.com/louvre-to-eiffel-tower-paris-storm/ |
