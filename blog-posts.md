@@ -1,9 +1,10 @@
 # Tayven Blog Posts
 
-*Last synced: 2026-10-27*
+*Last synced: 2026-11-03*
 
 | Title | Link |
 |-------|------|
+| Melbourne Australia: City Streets, Fitzroy Gardens & St Patrick’s Cathedral | https://tayven.com/melbourne-city-fitzroy-gardens-st-patricks-cathedral/ |
 | Looking Back on Our Europe Trip: What We Loved, What We’d Change, and What We Learned | https://tayven.com/europe-trip-lessons-learned/ |
 | Berlin Germany: Walking the Wall, Gaming Memories, and the Layers of History | https://tayven.com/berlin-cathedral-east-side-gallery-computer-games-museum/ |
 | Berlin Germany: From Munich by Train to Our First Day in Berlin | https://tayven.com/berlin-germany-tv-tower-alexanderplatz/ |
@@ -13,4 +14,3 @@
 | Blue Mountains 4‑Day Guide: Echo Point, Scenic World, Leura & Wentworth Falls | https://tayven.com/blue-mountains-4-day-guide/ |
 | Blue Mountains: A Winter Trip Through Memory, Mountains, and Family | https://tayven.com/blue-mountains-winter-trip/ |
 | 2 Days in Bern: The Best of Switzerland’s Quiet Capital | https://tayven.com/2-days-in-bern-best-things-to-do/ |
-| Bern Switzerland: A Small City Built for Big Moments | https://tayven.com/bern-switzerland-travel-story/ |
